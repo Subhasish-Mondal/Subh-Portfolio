@@ -2,7 +2,7 @@
 
 Personal portfolio of **Subhasish Mondal**, a Computer Science & Engineering graduate. A responsive, interactive website showcasing my education, experience, projects, research and achievements.
 
-**Live site:** https://YOUR-USERNAME.github.io
+**Live site:** https://subhasish-mondal.github.io/Subh-Portfolio/
 
 ## Highlights
 
